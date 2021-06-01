@@ -14,9 +14,9 @@ div.gap {
 }
 
 .button {
-    margin-left: 4%;
-    width: 20%;
-    height: 6%;
+    margin: 4%;
+    width: 30%;
+    height: 10%;
     cursor: pointer;
     display: inline-block;
 }
