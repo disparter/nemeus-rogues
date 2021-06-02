@@ -2,6 +2,7 @@ body {
     background: rgb(0,0,0);
     text-align: center;
     height: 100%;
+    overflow-y: hidden;
 }
 
 #logo {
@@ -10,7 +11,7 @@ body {
 }
 div.gap {
     width: 100%;
-    height: 8%;
+    height: 4%;
 }
 
 .button {
